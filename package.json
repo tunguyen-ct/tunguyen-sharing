@@ -10,12 +10,14 @@
     "build": "turbo run build",
     "dev": "turbo run dev --parallel",
     "lint": "turbo run lint",
+    "clean": "del '{packages,apps}/*/{dist,node_modules,.turbo,.next,tsconfig.tsbuildinfo}'",
     "changeset": "changeset",
     "prepare-release": "pnpm build",
     "release": "pnpm prepare-release && changeset publish"
   },
   "devDependencies": {
     "@changesets/cli": "^2.25.0",
+    "del-cli": "^5.0.0",
     "prettier": "latest",
     "turbo": "latest"
   },
