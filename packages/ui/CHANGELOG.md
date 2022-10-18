@@ -1,5 +1,11 @@
 # @tunguyenct/ui
 
+## 1.3.0
+
+### Minor Changes
+
+- 6f8ab66: update code all packages
+
 ## 1.2.0
 
 ### Minor Changes
