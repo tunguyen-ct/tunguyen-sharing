@@ -1,5 +1,11 @@
 # @tunguyenct/ui
 
+## 1.5.0-next.0
+
+### Minor Changes
+
+- 31d87ca: new coee
+
 ## 1.4.0
 
 ### Minor Changes
