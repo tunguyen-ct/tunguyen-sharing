@@ -9,11 +9,14 @@ pnpm dev
 
 ## How to contribute
 
-Create a new branch from `main` branch
+1. Fork this repo
 
-Update the code in the `packages/*`
+2. Create a new branch from `main` branch
 
-Commit your changes then adding a changeset with:
+3. Update the code in the `packages/*` then commiting your changes
+
+
+4. Adding a changeset with:
 
 ```
 pnpm changeset
@@ -25,6 +28,6 @@ Using arrows to navigate and use space to select, then choosing bump type (major
 
 Read more: [adding a changeset](https://github.com/changesets/changesets/blob/main/docs/adding-a-changeset.md)
 
-Committing your changeset and creating a PR to `main` branch.
+5. Committing your changeset and creating a PR to `main` branch.
 
-Done.
+6. Done.
