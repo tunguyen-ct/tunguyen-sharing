@@ -7,8 +7,7 @@
     "dist"
   ],
   "scripts": {
-    "build": "tsc",
-    "pubpub": "npm publish --registry https://registry.npmjs.org --access=public"
+    "build": "tsc"
   },
   "license": "MIT",
   "devDependencies": {
