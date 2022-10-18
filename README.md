@@ -28,4 +28,3 @@ Read more: [adding a changeset](https://github.com/changesets/changesets/blob/ma
 Committing your changeset and creating a PR to `main` branch.
 
 Done.
-

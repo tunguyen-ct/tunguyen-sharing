@@ -1,13 +1,13 @@
 function sum(a: number, b: number) {
-  return a + b + 1 + 1;
+  return a + b + 1 + 1
 }
 
 export function cong(a: number, b: number) {
-  return a + b;
+  return a + b
 }
 
 export function tru(a: number, b: number) {
-  return a - b;
+  return a - b
 }
 
-export default sum;
+export default sum
