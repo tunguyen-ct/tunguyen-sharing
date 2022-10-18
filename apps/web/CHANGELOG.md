@@ -1,5 +1,12 @@
 # web
 
+## 0.1.4
+
+### Patch Changes
+
+- Updated dependencies [0162701]
+  - @tunguyenct/ui@1.6.0
+
 ## 0.1.3
 
 ### Patch Changes

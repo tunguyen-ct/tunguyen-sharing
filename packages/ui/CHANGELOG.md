@@ -1,5 +1,11 @@
 # @tunguyenct/ui
 
+## 1.6.0
+
+### Minor Changes
+
+- 0162701: new code
+
 ## 1.5.0
 
 ### Minor Changes
