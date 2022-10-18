@@ -10,7 +10,8 @@
     "build": "turbo run build",
     "dev": "turbo run dev --parallel",
     "lint": "turbo run lint",
-    "format": "prettier --write \"**/*.{ts,tsx,md}\""
+    "prepare-release": "pnpm build",
+    "release": "pnpm prepare-release && changeset publish"
   },
   "devDependencies": {
     "@changesets/cli": "^2.25.0",
