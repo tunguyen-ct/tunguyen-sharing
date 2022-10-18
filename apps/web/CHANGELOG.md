@@ -1,5 +1,16 @@
 # web
 
+## 0.1.0
+
+### Minor Changes
+
+- add968b: new functions package
+
+### Patch Changes
+
+- Updated dependencies [add968b]
+  - @tunguyenct/functions@1.1.0
+
 ## 0.0.5
 
 ### Patch Changes
