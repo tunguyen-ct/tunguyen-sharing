@@ -7,5 +7,7 @@
     "@tunguyenct/sum": "2.4.0",
     "@tunguyenct/ui": "1.4.0"
   },
-  "changesets": []
+  "changesets": [
+    "perfect-swans-wink"
+  ]
 }
