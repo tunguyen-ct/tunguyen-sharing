@@ -1,5 +1,13 @@
 # web
 
+## 0.0.5
+
+### Patch Changes
+
+- Updated dependencies [3fbb651]
+  - @tunguyenct/sum@2.3.0
+  - @tunguyenct/ui@1.2.0
+
 ## 0.0.4
 
 ### Patch Changes
