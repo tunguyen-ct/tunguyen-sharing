@@ -17,6 +17,7 @@ importers:
   apps/web:
     specifiers:
       '@babel/core': ^7.0.0
+      '@tunguyenct/functions': workspace:*
       '@tunguyenct/sum': workspace:*
       '@tunguyenct/ui': workspace:*
       '@types/node': ^17.0.12
@@ -28,6 +29,7 @@ importers:
       react-dom: 18.2.0
       typescript: ^4.5.3
     dependencies:
+      '@tunguyenct/functions': link:../../packages/functions
       '@tunguyenct/sum': link:../../packages/sum
       '@tunguyenct/ui': link:../../packages/ui
       next: 12.3.1_6tziyx3dehkoeijunclpkpolha
@@ -39,6 +41,20 @@ importers:
       '@types/react': 18.0.17
       eslint: 7.32.0
       next-transpile-modules: 9.0.0
+      typescript: 4.8.4
+
+  packages/functions:
+    specifiers:
+      '@types/react': ^18.0.17
+      '@types/react-dom': ^18.0.6
+      eslint: ^7.32.0
+      react: ^18.2.0
+      typescript: ^4.8.4
+    devDependencies:
+      '@types/react': 18.0.21
+      '@types/react-dom': 18.0.6
+      eslint: 7.32.0
+      react: 18.2.0
       typescript: 4.8.4
 
   packages/sum:
