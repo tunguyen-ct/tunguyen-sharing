@@ -1,5 +1,12 @@
 # web
 
+## 0.1.3
+
+### Patch Changes
+
+- Updated dependencies [31d87ca]
+  - @tunguyenct/ui@1.5.0
+
 ## 0.1.3-next.0
 
 ### Patch Changes
