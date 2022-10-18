@@ -1,5 +1,12 @@
 # @tunguyenct/sum
 
+## 2.3.0
+
+### Minor Changes
+
+- 3fbb651: update button component
+  add tru function
+
 ## 2.2.0
 
 ### Minor Changes
