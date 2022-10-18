@@ -10,6 +10,7 @@
     "build": "turbo run build",
     "dev": "turbo run dev --parallel",
     "lint": "turbo run lint",
+    "version": "changeset version",
     "prepare-release": "pnpm build",
     "release": "pnpm prepare-release && changeset publish"
   },
