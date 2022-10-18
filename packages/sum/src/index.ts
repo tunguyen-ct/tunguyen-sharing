@@ -10,4 +10,8 @@ export function congg(a: number, b: number) {
   return a + b;
 }
 
+export function tru(a: number, b: number) {
+  return a - b;
+}
+
 export default sum;
