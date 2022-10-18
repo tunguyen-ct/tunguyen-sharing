@@ -1,5 +1,14 @@
 # web
 
+## 0.1.1
+
+### Patch Changes
+
+- Updated dependencies [6f8ab66]
+  - @tunguyenct/functions@1.2.0
+  - @tunguyenct/sum@2.4.0
+  - @tunguyenct/ui@1.3.0
+
 ## 0.1.0
 
 ### Minor Changes

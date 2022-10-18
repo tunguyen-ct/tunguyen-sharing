@@ -1,5 +1,11 @@
 # @tunguyenct/sum
 
+## 2.4.0
+
+### Minor Changes
+
+- 6f8ab66: update code all packages
+
 ## 2.3.0
 
 ### Minor Changes
