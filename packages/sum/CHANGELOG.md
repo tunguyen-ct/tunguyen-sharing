@@ -1,5 +1,11 @@
 # @tunguyenct/sum
 
+## 2.2.0
+
+### Minor Changes
+
+- 93358de: remove function congg
+
 ## 2.1.0
 
 ### Minor Changes
