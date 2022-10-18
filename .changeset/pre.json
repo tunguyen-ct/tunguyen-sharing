@@ -1,0 +1,11 @@
+{
+  "mode": "pre",
+  "tag": "next",
+  "initialVersions": {
+    "web": "0.1.2",
+    "@tunguyenct/functions": "1.2.0",
+    "@tunguyenct/sum": "2.4.0",
+    "@tunguyenct/ui": "1.4.0"
+  },
+  "changesets": []
+}
