@@ -1,5 +1,11 @@
 # @tunguyenct/functions
 
+## 1.2.1
+
+### Patch Changes
+
+- bf00541: Update greeting.ts
+
 ## 1.2.0
 
 ### Minor Changes

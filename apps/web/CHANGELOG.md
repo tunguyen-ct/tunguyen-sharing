@@ -1,5 +1,12 @@
 # web
 
+## 0.1.5
+
+### Patch Changes
+
+- Updated dependencies [bf00541]
+  - @tunguyenct/functions@1.2.1
+
 ## 0.1.4
 
 ### Patch Changes
