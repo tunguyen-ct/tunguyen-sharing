@@ -31,3 +31,11 @@ Read more: [adding a changeset](https://github.com/changesets/changesets/blob/ma
 5. Committing your changeset and creating a PR to `main` branch.
 
 6. Done.
+
+## Check your packages to see if they are published
+
+- https://www.npmjs.com/package/@tunguyenct/ui
+
+- https://www.npmjs.com/package/@tunguyenct/functions
+
+- https://www.npmjs.com/package/@tunguyenct/sum
