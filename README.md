@@ -15,7 +15,6 @@ pnpm dev
 
 3. Update the code in the `packages/*` then commiting your changes
 
-
 4. Adding a changeset with:
 
 ```
@@ -28,7 +27,7 @@ Using arrows to navigate and use space to select, then choosing bump type (major
 
 Read more: [adding a changeset](https://github.com/changesets/changesets/blob/main/docs/adding-a-changeset.md)
 
-5. Committing your changeset and creating a PR to `main` branch.
+5. Committing your changeset and creating a PR to `main` branch of this repository.
 
 6. Done.
 
