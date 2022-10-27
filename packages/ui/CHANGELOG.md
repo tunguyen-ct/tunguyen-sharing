@@ -1,5 +1,11 @@
 # @tunguyenct/ui
 
+## 2.0.0
+
+### Major Changes
+
+- 1b7d303: more code
+
 ## 1.6.0
 
 ### Minor Changes

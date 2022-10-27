@@ -1,5 +1,11 @@
 # @tunguyenct/sum
 
+## 3.0.0
+
+### Major Changes
+
+- 1b7d303: more code
+
 ## 2.4.0
 
 ### Minor Changes
