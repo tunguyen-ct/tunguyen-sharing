@@ -1,5 +1,16 @@
 # web
 
+## 1.0.0
+
+### Major Changes
+
+- 989804e: Add awesome code
+
+### Patch Changes
+
+- Updated dependencies [1f63c73]
+  - @tunguyenct/sum@3.1.0
+
 ## 0.1.6
 
 ### Patch Changes
