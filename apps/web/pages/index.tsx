@@ -6,7 +6,7 @@ export default function Web() {
   return (
     <div>
       <h1>Web {cong(1, 4)}</h1>
-      <h1>{greeting("Tu")}</h1>
+      <h1>{greeting("Tú đẹp trai")}</h1>
       <Button />
     </div>
   )
