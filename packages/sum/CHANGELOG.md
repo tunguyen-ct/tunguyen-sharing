@@ -1,5 +1,11 @@
 # @tunguyenct/sum
 
+## 3.1.0
+
+### Minor Changes
+
+- 1f63c73: Add currying sum
+
 ## 3.0.0
 
 ### Major Changes
