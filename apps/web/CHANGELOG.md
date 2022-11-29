@@ -1,5 +1,12 @@
 # web
 
+## 1.0.1
+
+### Patch Changes
+
+- Updated dependencies [25632f7]
+  - @tunguyenct/functions@3.0.0
+
 ## 1.0.0
 
 ### Major Changes

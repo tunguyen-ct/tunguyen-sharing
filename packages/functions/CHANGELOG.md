@@ -1,5 +1,11 @@
 # @tunguyenct/functions
 
+## 3.0.0
+
+### Major Changes
+
+- 25632f7: new feature
+
 ## 2.0.0
 
 ### Major Changes
